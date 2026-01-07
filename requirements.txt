@@ -1,0 +1,24 @@
+# Portable Solar Power Generator - Requirements
+# MS Engineering College Final Year Project
+
+# Core Python libraries (usually pre-installed)
+# tkinter - GUI framework (comes with Python)
+# threading - Multi-threading support (built-in)
+# json - JSON handling (built-in)
+# datetime - Date and time operations (built-in)
+# time - Time operations (built-in)
+# os - Operating system interface (built-in)
+# sys - System-specific parameters (built-in)
+
+# External dependencies (install with: pip install -r requirements.txt)
+keyboard==0.13.5        # For remote control key detection
+pyserial==3.5           # For Arduino/hardware communication (if needed)
+matplotlib==3.7.1       # For data visualization (optional)
+numpy==1.24.3          # For numerical calculations (optional)
+
+# Optional dependencies for advanced features
+# RPi.GPIO==0.7.1       # For Raspberry Pi GPIO control (RPi only)
+# adafruit-circuitpython-ads1x15==2.2.21  # For ADC readings (hardware specific)
+
+# Development and testing
+pytest==7.3.1          # For unit testing (development only)
