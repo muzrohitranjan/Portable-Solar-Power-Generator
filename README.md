@@ -17,25 +17,32 @@ A portable solar power generator with remote control and mobile app functionalit
 - **Project Type**: Final Year Project
 
 ## Hardware Components
-- Solar Power Panel
+- **ESP32 Microcontroller** - Main control unit with WiFi capability
+- Solar Power Panel (12V, 50W)
 - Micro Battery (Medium size)
 - Charge Controller
 - LED Bulbs
 - Mobile charging facility
 - Remote control system
+- Relay modules for device control
+- Voltage and current sensors
 
 ## Key Features
-1. **Portable Design** - Can be carried anywhere (jungle areas, remote locations)
-2. **Mobile App Control** - Control lights and fans via smartphone app
-3. **Remote Control** - Physical remote for device control
-4. **Mobile Charging** - Charge phones through charge controller
-5. **Solar Panel Monitoring** - Real-time battery status on mobile app
+1. **ESP32 WiFi Control** - Web-based interface for remote monitoring and control
+2. **Portable Design** - Can be carried anywhere (jungle areas, remote locations)
+3. **Mobile App Control** - Control lights and fans via smartphone app
+4. **Physical Remote Control** - Hardware remote for device control
+5. **Mobile Charging** - Charge phones through charge controller
+6. **Real-time Monitoring** - Live battery status and solar panel monitoring
+7. **Safety Features** - Automatic low-voltage cutoff and emergency shutdown
 
 ## Innovation
 The main innovation by Rohit Ranjan includes:
-- Remote control functionality for all connected devices
-- Mobile application for wireless control
-- Real-time solar panel charge status display
+- **ESP32 WiFi Control** - Web-based interface accessible from any device
+- **Remote control functionality** for all connected devices
+- **Mobile application** for wireless control
+- **Real-time solar panel charge status** display
+- **IoT integration** with sensor monitoring
 
 ## Applications
 - Remote areas without electricity
