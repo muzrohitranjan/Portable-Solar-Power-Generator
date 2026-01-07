@@ -4,12 +4,12 @@
 A portable solar power generator with remote control and mobile app functionality for controlling lights, fans, and charging mobile devices in areas without electricity access.
 
 ## Team Members
-- **[@ritikpandey](https://github.com/ritikpandey)** (Team Leader & Best Friend) - Code review, testing, hardware assistance, project guidance
-- **[@muzrohitranjan](https://github.com/muzrohitranjan)** - Main developer, code implementation, innovation features
+- **Ritik Pandey** (Team Leader & Best Friend) - Code review, testing, hardware assistance, project guidance
+- **Rohit Ranjan** (Main Developer) - Code implementation, innovation features
 - **Nikki Kumari Yadav** - Project documentation, code review, print-outs
 - **Om Singh** - Information gathering, research, project analysis
 
-**Special Thanks:** This project was completed with the invaluable support and friendship of [@ritikpandey](https://github.com/ritikpandey), who provided excellent leadership and technical guidance throughout the development process.
+**Special Thanks:** This project was completed with the invaluable support and friendship of Ritik Pandey, who provided excellent leadership and technical guidance throughout the development process.
 
 ## College Information
 - **College**: MS Engineering College

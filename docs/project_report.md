@@ -335,12 +335,12 @@ The portable solar power generator project successfully validates the technical 
 ---
 
 **Project Completed by:**
-- **[@ritikpandey](https://github.com/ritikpandey)** (Team Leader & Best Friend)
-- **[@muzrohitranjan](https://github.com/muzrohitranjan)** (Main Developer)  
+- **Ritik Pandey** (Team Leader & Best Friend)
+- **Rohit Ranjan** (Main Developer)  
 - **Nikki Kumari Yadav** (Documentation)
 - **Om Singh** (Research)
 
-**Special acknowledgment to [@ritikpandey](https://github.com/ritikpandey) for outstanding leadership and friendship throughout this project.**
+**Special acknowledgment to Ritik Pandey for outstanding leadership and friendship throughout this project.**
 
 **MS Engineering College**  
 **Visvesvaraya Technological University**  
